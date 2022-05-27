@@ -1,2 +1,3 @@
-# docs_classification
-This is repository for the code of documents classification using machine learning.
+# Documents and Webpages classification
+This repository contain the code of documents classification and webpases classification using machine learning.
+
